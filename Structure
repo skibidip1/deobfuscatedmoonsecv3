@@ -1,0 +1,17 @@
+moonsecv3-deobf/
+├── README.md
+├── main.lua
+├── decompiler/
+│   ├── bytecode.lua
+│   ├── parser.lua
+│   └── reconstruct.lua
+├── utils/
+│   ├── tokenizer.lua
+│   └── logger.lua
+├── examples/
+│   └── sample_obfuscated.lua
+├── output/
+│   └── (empty or contains "loading..." file)
+├── docs/
+│   └── advanced.md
+└── LICENSE
